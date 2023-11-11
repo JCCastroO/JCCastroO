@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joao-Carlos-CO
+- 👋 Hi, I’m @JCCastroO
 - 👀 I’m interested in Front-end development
 - 🌱 I’m currently learning Front-end HTML,CSS, JavaScript and React on Alura
 - 💞️ I’m looking to collaborate on ...
